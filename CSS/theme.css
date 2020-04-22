@@ -2,6 +2,7 @@
 
 body{ 
     background-color: #383232;
+    padding: 30px;
 } 
 
 h1{
@@ -18,9 +19,11 @@ h2{
 	list-style-type: none;
 	margin: auto;
 	padding: 0;
-	width: 54%;
+	width: 60%;
 	text-align: center;
 	overflow: hidden;
+	margin-bottom: 30px;
+	border-collapse: collapse;
 }
 
 #nav li{
@@ -29,13 +32,13 @@ h2{
 
 /*this to ensure whole are and not just the text is clickable*/
 #nav li a{
+	font-size: 16px;
 	display: block; 
 	width: 200px;
-	border-right: 1px solid white;
-	border-left: 1px solid white;
+	border: 1px solid white;
 	color: white;
-	padding-bottom: 5px;
-	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-top: 8px;
 	background-color: #393d39;
 	text-decoration: none;
 } 
