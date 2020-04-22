@@ -1,0 +1,45 @@
+
+p{
+	font-family: serif;
+	margin-bottom: 20px;
+}
+
+
+#student{
+	float: left;
+	text-align: center;
+	padding: 5px;
+	margin-top: 30px;
+	margin-left: 30px;	
+	width: 320px;
+	height: 100%;
+	background-color: #383232;
+	color: #b5b1b1;
+}
+
+#photo{
+	border: 2px solid black;
+	padding: 2px;
+	margin-top: 15px;
+	border-radius: 50px;
+	width: 240px;
+}
+
+#intro{
+	padding: 30px;
+}
+
+#mat{
+	float: right;
+		text-align: center;
+	padding: 10px;
+	padding-top: 20px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	margin-top: 30px;
+	margin-right: 280px;
+	width: 800px;
+	height: 100%;
+	background-color: #212020;
+	color: #c4c0c0;
+}
